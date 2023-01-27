@@ -1,3 +1,3 @@
 # laravel-cicd
 
-Testing Laravel CI/CD using GitHub Actions and AWS
+Testing Laravel CI/CD using GitHub Actions
