@@ -1,3 +1,3 @@
 # laravel-cicd
 
-Testing Laravel CI/CD using jenkins and aws
+Testing Laravel CI/CD using GitHub Actions and AWS
